@@ -2434,8 +2434,8 @@ Icons = {
 }
 
 GameIcons = {
-    Frontlines = "rbxassetid://91169073001203",
-    Riotfall = "rbxassetid://92353922399927",
+    Frontlines = "rbxassetid://120764304391652",
+    Riotfall = "rbxassetid://81555763097933",
     Deadline = "rbxassetid://119312151896303",
     NightsInForest = "rbxassetid://110762944786179",
     StealABrainrot = "rbxassetid://134540079992077",
