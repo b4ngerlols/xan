@@ -2434,36 +2434,8 @@ Icons = {
 }
 
 GameIcons = {
-    PS2 = "rbxassetid://81555763097933",
-    TB3 = "rbxassetid://120764304391652",
-    Deadline = "rbxassetid://119312151896303",
-    NightsInForest = "rbxassetid://110762944786179",
-    StealABrainrot = "rbxassetid://134540079992077",
-    StateOfAnarchy = "rbxassetid://140676361054007",
-    Arsenal = "rbxassetid://118370151957403",
-    Rivals = "rbxassetid://75279442902369",
-    MurderMystery2 = "rbxassetid://106440170205113",
-    Inhuman = "rbxassetid://91383002108158",
-    NoBigDeal = "rbxassetid://134503932264754",
-    CaseOpeningSim = "rbxassetid://72715714274387",
-    NoScopeArcade = "rbxassetid://101187230484445",
-    BadBusiness = "rbxassetid://86760405253167",
-    BadBusinessLegit = "rbxassetid://91269349599029",
-    GunfightArena = "rbxassetid://82949385124172",
-    Fortline = "rbxassetid://116003500244886",
-    Strucid = "rbxassetid://103792087699169",
-    BaseBattles = "rbxassetid://120610115921293",
-    EnergyAssault = "rbxassetid://108901015670005",
-
-    Ohio = "rbxassetid://113684965595676",
-    GroundWar = "rbxassetid://73959673700388",
-    OutwestChicago = "rbxassetid://90138115937365",
-    MySingingGarden = "rbxassetid://117119247335168",
-    MegaLuxuryJet = "rbxassetid://90971372935636",
-    MySingingBrainrot = "rbxassetid://88809252501715",
-    PhantomForces = "rbxassetid://88286215015026",
-    TridentSurvival = "rbxassetid://70421564656011",
-    ObbyBuster = "rbxassetid://100914950961043"
+    ThaBronx3 = "rbxassetid://120764304391652",
+    PhillyStreetz2 = "rbxassetid://81555763097933"
 }
 
 
@@ -30759,6 +30731,5 @@ _G.Xan = Xan
 
 
 return Xan
-
 
 
